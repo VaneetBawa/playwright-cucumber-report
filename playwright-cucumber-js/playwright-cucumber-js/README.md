@@ -6,4 +6,4 @@
 
 ## Running your tests
 - To run a single test, run 
-  ```npm run test```
+  ```npm run test1```
